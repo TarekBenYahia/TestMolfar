@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    >
+
+    <item android:id="@+id/nav_music"
+        android:icon="@drawable/ic_baseline_headset_24"
+        android:title="@string/Music"/>
+    <item android:id="@+id/nav_favourites"
+        android:icon="@drawable/ic_baseline_favorite_24"
+        android:title="@string/Favourites"/>
+    <item android:id="@+id/nav_journal"
+        android:icon="@drawable/ic_baseline_receipt_24"
+        android:title="@string/Journal"/>
+
+</menu>
